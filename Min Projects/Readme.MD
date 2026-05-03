@@ -23,28 +23,6 @@ A collection of beginner-friendly Python mini projects covering games, utilities
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Python 3.x
-- Standard libraries: `random`, `string`, `os`, `shutil`, `time`
-- `winsound` (built-in on Windows — used only for the Alarm Clock)
-
-### Run any project
-Clone the repo and open the notebook:
-```bash
-git clone https://github.com/your-username/python-mini-projects.git
-cd python-mini-projects
-jupyter notebook projects.ipynb
-```
-
-Or copy any individual cell into a `.py` file and run it directly:
-```bash
-python project_name.py
-```
-
----
-
 ## 📌 Project Details
 
 ### 🪨 Rock Paper Scissors
@@ -99,9 +77,3 @@ Scans a folder, creates subfolders named after each file extension, and moves fi
 ## 🤝 Contributing
 
 Feel free to fork this repo, improve any project, or add your own mini project via a pull request!
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
